@@ -164,7 +164,7 @@ For a more robust solution, consider integrating with:
 
 ## License
 
-Copyright © 2024 TriForge Studio. All rights reserved.
+Copyright © 2025 TriForge Studio. All rights reserved.
 
 ## Support
 
